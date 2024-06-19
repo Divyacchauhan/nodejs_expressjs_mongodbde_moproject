@@ -1,0 +1,21 @@
+{
+  "name": "nodejs-expressjs-mongodb-demoproject",
+  "version": "1.0.0",
+  "description": "this project related to the nodejs-expressjs-mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "expresjs",
+    "mongodb"
+  ],
+  "author": "Divya chauhan",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.2.4"
+  }
+}
